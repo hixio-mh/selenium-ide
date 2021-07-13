@@ -62,7 +62,7 @@
     "eslint-plugin-react": "^7.14.3",
     "identity-obj-proxy": "^3.0.0",
     "jest": "^24.9.0",
-    "lerna": "^3.16.4",
+    "lerna": "^4.0.0",
     "prettier": "^1.17.0",
     "stylelint": "^11.0.0",
     "stylelint-config-prettier": "^6.0.0",
