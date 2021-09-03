@@ -28,7 +28,7 @@
     "@testing-library/dom": "^6.4.1",
     "babel-loader": "^8.0.5",
     "chromedriver": "^87.0.3",
-    "copy-webpack-plugin": "^5.0.2",
+    "copy-webpack-plugin": "^6.0.0",
     "engine.io": "^4.0.0",
     "selenium-webdriver": "^4.0.0-alpha.7",
     "uglifyjs-webpack-plugin": "^2.1.2",
