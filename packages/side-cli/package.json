@@ -31,7 +31,7 @@
   },
   "dependencies": {
     "@seleniumhq/side-runtime": "^3.5.10",
-    "ink": "^2.4.0",
+    "ink": "^3.0.9",
     "ink-select-input": "^3.1.0",
     "ink-spinner": "^3.0.0",
     "react": "^16.10.1",
